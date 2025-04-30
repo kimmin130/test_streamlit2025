@@ -1,6 +1,5 @@
 import streamlit as st
 st.write("Hello World")
-pip install openai
 import streamlit as st
 import openai
 
